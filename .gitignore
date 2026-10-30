@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+*.dist-info/
+venv/
+.env
+# Node
+node_modules/
+# Build artifacts
+dist/
+build/
+# OS
+.DS_Store
+Thumbs.db
+# Env files
+.env
+# SQLite DB
+*.db
+# Uploads
+uploads/
+
+# Virtual Environment
+.venv/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment variants
+.env.*
+!.env.example
+
+# SQLite variants
+*.sqlite
+*.sqlite3
+
+# Project backup archive
+CampusMindAI-code.zip
+
+
+# Backup and temporary files
+*.bak
+*.bak2
+*.backup-*
+backup-*/
+npm-install-log.txt
+
+
+README-UPDATE.txt
