@@ -438,7 +438,7 @@ Please keep contributions focused, documented, and easy to review.
 
 <div align="center">
 
-### Mr. Shikhar Tiwari
+### Shikhar Tiwari
 
 **AI & Full-Stack Development Enthusiast**
 
