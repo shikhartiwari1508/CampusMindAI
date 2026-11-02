@@ -462,7 +462,7 @@ This repository is currently shared for educational, learning, and hackathon pur
 
 ### 💙 CampusMindAI
 
-**Your Voice. Our Intelligence. A Smarter Campus.**
+**Your Voice. Our Intelligence. A Smarter Campus...**
 
 *Making Every Complaint Count! 🚀*
 
